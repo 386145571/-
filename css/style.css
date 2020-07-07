@@ -1,0 +1,108 @@
+#top {
+    height: 41px;
+    background-color:#faf9f5;
+    border: 1px solid #d9d9d9;
+}
+.top_inner {
+    height: 41px;
+    background-color: #faf9f5;
+}
+.container {
+    width: 936px;
+    margin: 0 auto;
+}
+
+.top_inner .login {
+    width: 27px;
+    height: 19px;
+    background: url(../images/icon.png) no-repeat -382px -36px;
+    float: right;
+    margin-top:12px;
+}
+#header {
+    height: 170px;
+}
+.log {
+    float: left;
+}
+.log a {
+    display: block;
+    width: 204px;
+    height: 93px;
+    background: url(../images/icon.png) no-repeat -61px -95px;
+    margin:40px 0 0 20px;
+}
+.code {
+    float: right;
+}
+
+.code a {
+    display: block;
+    width: 100px;
+    height: 100px;
+    background: url(../images/icon.png) no-repeat -332px -106px;
+    margin-top: 25px;
+}
+.txt {
+    display: block;
+    float: left;
+    font-size: 26px;
+    color: #666666;
+    display: block;
+    line-height: 170px;
+}
+.code p {
+    font-size: 13px;
+    padding-left: 25px;
+}
+#nav {
+    height: 48px;
+    background: red;
+}
+.menu {
+    float: left;
+    line-height: 48px;
+}
+
+.menu ul {
+    float: left;
+}
+
+.menu ul li {
+    float: left;
+}
+
+.menu ul li a {
+    padding: 0 40px;
+    color: #fff;
+}
+
+#nav_phpto {
+    height: 170px;
+}
+
+.photo {
+    width: 936px;
+    height: 315px;
+    background: url(../images/20139121446236150.jpg) no-repeat;
+}
+.phpto_text {
+    font-size: 12px;
+    color: #585858;
+}
+#content {
+    height: 750px;
+}
+.content_left {
+    width:245px;
+    height: 66px;
+    /* border: 1px solid red; */
+    background: url(../images/icon.png) no-repeat -21px -311px;
+    display: block;
+    float: left;
+}
+.content_star{
+    width: 427px;
+    height: 16px;
+    background: url(../images/icon.png) no-repeat -21px -261px;
+}
